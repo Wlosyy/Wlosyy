@@ -1,6 +1,10 @@
 Hi there! I'm Bartłomiej Czapiga👋
+  <a href="www.linkedin.com/in/bartlomiej-czapiga" rel="BartlomiejCzapiga">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
+  </a>
 
 🚗 Senior Test & Validation Engineer | Automotive Industry 🔬
+
 
 
 
