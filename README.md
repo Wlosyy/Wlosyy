@@ -11,7 +11,7 @@ I'm a MSc. Eng. in Automotive Engineering with 5 years of professional experienc
 I thrive in problem-solving scenarios, leading teams, and optimizing lab processes. Passionate about embedded systems and LabVIEW projects, I explore these fields in my free time!
 
 
-
+##
 🛠️ Tools & Technologies
 Main Tools:
 
@@ -19,7 +19,8 @@ Main Tools:
 
 - 🖥️ Oscilloscopes, Multimeters, Current/Voltage Probes
 
-- 🔬 Laboratory & Measurement Equipment
+- 🔬 Laboratory & Measurement Equipment <br />
+
 
 Programming Skills:
 
@@ -30,42 +31,28 @@ Programming Skills:
 Hobby Projects:
 
 - ⚡ Embedded Systems (Currently learning)
-
+  
 - 🔧 LabVIEW (Currently learning)
   
 
-
-💼 Professional Experience
+##
+💼 Professional Experience  
 
 
 Test & Validation Engineer – DC Motor
 
-✅ DV/PV Product Testing (Test plan development, execution, analysis, and reporting)
+✅ DV/PV Product Testing (Test plan development, execution, analysis, and reporting) | 🔍 Root Cause Analysis | 🚗 On-Vehicle Testing
 
-🔍 Root Cause Analysis (Supporting R&D, Quality, Warranty & Production teams)
+🛠️ Developing new testing methods & acquiring lab equipment | 📊 Environmental, Reliability & Electrical Tests
 
-🚗 On-Vehicle Testing
-
-🛠️ Developing new testing methods & acquiring lab equipment
-
-📊 Environmental, Reliability & Electrical Tests
-
-📜 Technical Documentation Review & PLM Database Work
-
-
-Additional Responsibilities
-
-🏗️ Laboratory standardization & process optimization
-
-👨‍🏫 Training sessions & mentoring new employees
-
-👥 Managing a small team of technicians
-
-
+📜 Technical Documentation Review & PLM Database Work | 👨‍🏫 Training sessions & mentoring new employees
+##
+##
 🚀 Current Interests
 
 🔹 Embedded Programming & Microcontrollers 🖥️
 🔹 LabVIEW Projects 🎛️
 🔹 Advanced Automotive Testing Techniques 🚗
 
+##
 📫 Let's Connect!
