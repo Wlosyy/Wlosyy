@@ -8,7 +8,7 @@ About Me 💡
 
 I'm a MSc. Eng. with 5 years of professional experience in Automotive Industry - Testing and Validation of DC Electric motors. My work primarily involves diagnosing and resolving software, hardware, and measurement-related issues in an electrical laboratory environment.
 
-I thrive in problem-solving scenarios, leading teams, and optimizing lab processes. Passionate about embedded systems and LabVIEW projects, I explore these fields in my free time!
+I thrive in problem-solving scenarios, mentoring collegues and optimizing lab processes. Passionate about embedded systems and LabVIEW projects, I explore these fields in my free time!
 
 
 ##
