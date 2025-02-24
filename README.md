@@ -1,5 +1,5 @@
 Hi there! I'm Bartłomiej Czapiga👋
-  <a href="www.linkedin.com/in/bartlomiej-czapiga" rel="BartlomiejCzapiga">
+  <a href="https://www.linkedin.com/in/bartlomiej-czapiga" rel="BartlomiejCzapiga">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
   </a>
 
